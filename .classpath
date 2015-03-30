@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.7.0_55">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v7.0">
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.web"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="C:/Users/Nandu/Downloads/hyperjaxb3-ejb-runtime-0.5.3.jar/hyperjaxb3-ejb-runtime-0.5.3.jar"/>
+	<classpathentry kind="lib" path="/mi/WebContent/WEB-INF/lib/hibernate-jpa-2.1-api/1.0.0.Final/hibernate-jpa-2.1-api-1.0.0.Final-sources.jar"/>
+	<classpathentry kind="lib" path="/mi/WebContent/WEB-INF/lib/antlr-2.7.7.jar"/>
+	<classpathentry kind="lib" path="/mi/WebContent/WEB-INF/lib/asm-3.1.jar"/>
+	<classpathentry kind="lib" path="/mi/WebContent/WEB-INF/lib/cglib-2.2.2.jar"/>
+	<classpathentry kind="lib" path="/mi/WebContent/WEB-INF/lib/commons-lang3-3.3.2.jar"/>
+	<classpathentry kind="lib" path="/mi/WebContent/WEB-INF/lib/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="/mi/WebContent/WEB-INF/lib/dom4j-2.0.0-ALPHA-2.jar"/>
+	<classpathentry kind="lib" path="/mi/WebContent/WEB-INF/lib/hibernate-commons-annotations-4.0.5.Final.jar"/>
+	<classpathentry kind="lib" path="/mi/WebContent/WEB-INF/lib/hibernate-core-4.3.8.Final.jar"/>
+	<classpathentry kind="lib" path="/mi/WebContent/WEB-INF/lib/hibernate-entitymanager-4.3.8.Final.jar"/>
+	<classpathentry kind="lib" path="/mi/WebContent/WEB-INF/lib/hibernate-jpa-2.1-api-1.0.0.Final.jar"/>
+	<classpathentry kind="lib" path="/mi/WebContent/WEB-INF/lib/javassist-3.18.1-GA.jar"/>
+	<classpathentry kind="lib" path="/mi/WebContent/WEB-INF/lib/javax.annotation-api-1.2.jar"/>
+	<classpathentry kind="lib" path="/mi/WebContent/WEB-INF/lib/javax.inject-2.4.0-b10.jar"/>
+	<classpathentry kind="lib" path="/mi/WebContent/WEB-INF/lib/javax.persistence_2.0.3.v201010191057.jar"/>
+	<classpathentry kind="lib" path="/mi/WebContent/WEB-INF/lib/jboss-logging-3.1.0.CR1.jar"/>
+	<classpathentry kind="lib" path="/mi/WebContent/WEB-INF/lib/jboss-logging-3.1.3.GA.jar"/>
+	<classpathentry kind="lib" path="/mi/WebContent/WEB-INF/lib/jboss-logging-annotations-1.2.0.Beta1.jar"/>
+	<classpathentry kind="lib" path="/mi/WebContent/WEB-INF/lib/jboss-transaction-api_1.2_spec-1.0.0.Final.jar"/>
+	<classpathentry kind="lib" path="/mi/WebContent/WEB-INF/lib/jersey-client-1.18.1.jar"/>
+	<classpathentry kind="lib" path="/mi/WebContent/WEB-INF/lib/jersey-core-1.18.1.jar"/>
+	<classpathentry kind="lib" path="/mi/WebContent/WEB-INF/lib/jersey-json-1.18.1.jar"/>
+	<classpathentry kind="lib" path="/mi/WebContent/WEB-INF/lib/jersey-server-1.18.1.jar"/>
+	<classpathentry kind="lib" path="/mi/WebContent/WEB-INF/lib/jersey-servlet-1.18.1.jar"/>
+	<classpathentry kind="lib" path="/mi/WebContent/WEB-INF/lib/jsr311-api-1.1.1.jar"/>
+	<classpathentry kind="lib" path="/mi/WebContent/WEB-INF/lib/jta-1.1.jar"/>
+	<classpathentry kind="lib" path="/mi/WebContent/WEB-INF/lib/mysql-connector-java-5.1.34.jar"/>
+	<classpathentry kind="lib" path="/mi/WebContent/WEB-INF/lib/osgi-resource-locator-1.0.1.jar"/>
+	<classpathentry kind="lib" path="/mi/WebContent/WEB-INF/lib/slf4j-api-1.5.8.jar"/>
+	<classpathentry kind="lib" path="/mi/WebContent/WEB-INF/lib/validation-api-1.1.0.Final.jar"/>
+	<classpathentry kind="lib" path="/mi/WebContent/WEB-INF/lib/xml-apis-1.0.b2.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
